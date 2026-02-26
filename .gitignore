@@ -1,0 +1,27 @@
+# Compiled extensions
+*.so
+*.o
+*.dylib
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
