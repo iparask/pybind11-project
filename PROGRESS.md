@@ -1,21 +1,21 @@
 # Learning Progress Tracker
 
-**Start Date:** ___________  
-**Target Completion Date:** ___________
+**Start Date:** ___Feb 26______  
+**Target Completion Date:** __ May 1st __
 
 ## Week 1: Foundations & Your First Binding
 
 **Week Start:** _____  **Week End:** _____
 
-- [ ] **Day 1 (Monday):** Introduction & Conceptual Understanding
-  - Notes: 
-  - Challenges faced:
-  - Time spent:
+- [x] **Day 1 (Monday):** Introduction & Conceptual Understanding
+  - Notes: This seemed pretty straight forward.
+  - Challenges faced: I wanted to use uv. So I had to ask claude to update everythin,g.
+  - Time spent: 45 minutes
 
-- [ ] **Day 2 (Tuesday):** Exposing Functions with Different Signatures
-  - Notes:
-  - Challenges faced:
-  - Time spent:
+- [x] **Day 2 (Tuesday):** Exposing Functions with Different Signatures
+  - Notes: Finished
+  - Challenges faced: The fact that the C++ linter I installed cannot see the packages
+  - Time spent: 20 minutes
 
 - [ ] **Day 3 (Wednesday):** Default Arguments & Keyword Arguments
   - Notes:

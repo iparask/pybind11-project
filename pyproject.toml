@@ -9,6 +9,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "setuptools>=61",
     "ipython>=9.10.0",
     "numpy>=2.4.2",
     "pybind11>=3.0.2",
