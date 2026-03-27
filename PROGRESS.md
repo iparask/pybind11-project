@@ -5,7 +5,7 @@
 
 ## Week 1: Foundations & Your First Binding
 
-**Week Start:** _____  **Week End:** _____
+**Week Start:** _Feb26__  **Week End:** __March 10___
 
 - [x] **Day 1 (Monday):** Introduction & Conceptual Understanding
   - Notes: This seemed pretty straight forward.
@@ -17,41 +17,41 @@
   - Challenges faced: The fact that the C++ linter I installed cannot see the packages
   - Time spent: 20 minutes
 
-- [ ] **Day 3 (Wednesday):** Default Arguments & Keyword Arguments
+- [x] **Day 3 (Wednesday):** Default Arguments & Keyword Arguments
   - Notes:
   - Challenges faced:
-  - Time spent:
+  - Time spent: 10 minutes
 
-- [ ] **Day 4 (Thursday):** Docstrings & Basic Documentation
+- [x] **Day 4 (Thursday):** Docstrings & Basic Documentation
   - Notes:
   - Challenges faced:
-  - Time spent:
+  - Time spent: 5 minutes
 
-- [ ] **Day 5 (Friday):** Week 1 Mini-Project (String Utilities)
+- [x] **Day 5 (Friday):** Week 1 Mini-Project (String Utilities)
   - Notes:
   - Challenges faced:
-  - Time spent:
+  - Time spent: 10 minutes
 
 **Week 1 Reflection:**
-- What went well:
-- What was challenging:
+- What went well: Basic CPP introduction, and pybind intro.
+- What was challenging: Setting up uv to work properly.
 - Key learnings:
 
 ---
 
 ## Week 2: Classes & Object-Oriented Bindings
 
-**Week Start:** _____  **Week End:** _____
+**Week Start:** _March 10_  **Week End:** _____
 
-- [ ] **Day 1 (Monday):** Simple Class Binding
+- [x] **Day 1 (Monday):** Simple Class Binding
   - Notes:
   - Challenges faced:
-  - Time spent:
+  - Time spent: 20 minutes
 
-- [ ] **Day 2 (Tuesday):** Properties & Attributes
-  - Notes:
+- [x] **Day 2 (Tuesday):** Properties & Attributes
+  - Notes: This was an interesting aspect.
   - Challenges faced:
-  - Time spent:
+  - Time spent:30 minutes
 
 - [ ] **Day 3 (Wednesday):** Operator Overloading
   - Notes:
